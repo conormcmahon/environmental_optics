@@ -6,4 +6,6 @@
 conda create -n env_opt python=3
 conda activate env_opt
 conda install matplotlib
-#conda install numpy
+conda install pandas
+conda install astropy
+#conda install numpy     # - note, numpy is probably already installed with most python installations
